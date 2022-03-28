@@ -32,5 +32,8 @@ public class GitTest {
 
         System.out.println("clone test2");
 
+        
+         System.out.println("再次修改远程仓库 pull");
+
     }
 }
