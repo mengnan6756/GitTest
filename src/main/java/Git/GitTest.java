@@ -22,5 +22,8 @@ public class GitTest {
 
 
         System.out.println("push test");
+
+        System.out.println("pull test  远程仓库修改代码");
+
     }
 }
