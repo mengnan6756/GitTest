@@ -1,5 +1,7 @@
 package Git;
 
+import java.security.spec.RSAOtherPrimeInfo;
+
 /**
  * @author Wei
  * 2022/03/27  17:06
@@ -24,6 +26,9 @@ public class GitTest {
         System.out.println("push test");
 
         System.out.println("pull test  远程仓库修改代码");
+
+
+        System.out.println("clone test");
 
     }
 }
