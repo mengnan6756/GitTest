@@ -30,5 +30,7 @@ public class GitTest {
 
         System.out.println("clone test");
 
+        System.out.println("clone test2");
+
     }
 }
